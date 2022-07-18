@@ -1,0 +1,16 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #4ed998, #2df8e0, #2bd6c7, #0a85aa, #006494);
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
